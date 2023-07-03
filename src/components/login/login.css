@@ -1,0 +1,4 @@
+/* // google apple auth */
+.auth {
+    @apply flex-1 bg-white flex text-gray-400 p-0 rounded-xl;
+}
